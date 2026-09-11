@@ -231,3 +231,6 @@ This repository serves as the official landing page for Mu Online. The software 
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Join the battle and experience Mu Online today!**
+
+---
+**Last updated:** 2026-09-11 12:05:44 UTC
