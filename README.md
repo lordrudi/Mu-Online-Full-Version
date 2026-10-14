@@ -233,4 +233,4 @@ This repository serves as the official landing page for Mu Online. The software 
 **Join the battle and experience Mu Online today!**
 
 ---
-**Last updated:** 2026-10-14 12:44:25 UTC
+**Last updated:** 2026-10-14 17:51:38 UTC
